@@ -1,0 +1,6 @@
+POST /api/courses 200 82 - 19.762 ms
+POST /api/courses 200 111 - 2.293 ms
+POST /api/courses/1 404 153 - 3.033 ms
+GET /api/courses/1 200 27 - 2.163 ms
+GET /api/courses/1 200 27 - 4.339 ms
+GET /api/courses/1 200 27 - 0.695 ms
